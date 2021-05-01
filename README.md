@@ -1,4 +1,4 @@
-# Health and Gym Management project
+# Health and Gym Management
 The project file contains a python script (main.py). This is a simple console-based project which is very easy to understand and use. There is no login system here. It contains all the required functions which include adding and viewing customers, exercise records as well as their health habits. While adding records, the user has to enter the customer’s name and age.
 
 # About the Project
