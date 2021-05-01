@@ -4,3 +4,5 @@ The project file contains a python script (main.py). This is a simple console-ba
 # About the Project
 The user can also add health habits and exercise by providing details such as name, age. Other features include searching customer details by his/her name. This console-based Health and Gym Management provides the simplest management of the gym member records. In short, this project mainly focuses on CRUD. There’s no external database file in this mini project to save the data permanently.
 
+# How to Run
+Run main.py
